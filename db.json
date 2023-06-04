@@ -1,0 +1,15 @@
+[
+	{
+		"id": "IOvUNl1c761f",
+		"group": "",
+		"name": "Server date/time",
+		"url": "https://cdn.totaljs.com/flowstream/templates/serverdatetime.json",
+		"author": "Total.js",
+		"icon": "ti ti-clock",
+		"color": "",
+		"version": "1",
+		"reference": "",
+		"readme": "This Flow reads a server time.",
+		"dtcreated": "2023-06-04T09:43:09.155Z"
+	}
+]
